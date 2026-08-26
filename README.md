@@ -13,4 +13,4 @@ Electrical & Electronics Engineering student building high-voltage power systems
 * **Environment:** Arch Linux, Bash
 
 ###  Projects
-* **3-Phase Full-Bridge Rectifier PCB:** https://github.com/SchottkyDio/3-Phase-Full-Bridge-Rectifier-PCB
+* **[3-Phase Full-Bridge Rectifier PCB](https://github.com/SchottkyDio/3-Phase-Full-Bridge-Rectifier-PCB)**
