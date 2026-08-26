@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Muhammed Emir
 
-<!--
-**SchottkyDio/SchottkyDio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Electronics Engineering student building high-voltage power systems, rectifiers, and custom PCB designs.
 
-Here are some ideas to get you started:
+###  Power Systems & Hardware Focus
+* **Power Electronics:** High-voltage rectifiers, DC-DC buck/boost converters, flyback drivers, and high-current PCB layout.
+* **Batteries & BMS:** Li-ion pack assembly, cell balancing, and custom BMS circuits.
+* **Lab Equipment:** Oscilloscope, AC/DC clamp meter, LCR meter, and variable DC power supplies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Software & Tools
+* **EDA & Sim:** KiCad, LTspice, EveryCircuit
+* **Embedded & Code:** C/C++, Python, ESP32, ATmega/AVR
+* **Environment:** Arch Linux, Bash
+
+###  Projects
+* **3-Phase Full-Bridge Rectifier PCB:** High-voltage DC bus layout featuring 5mm high-current trace routing, multi-via layer stitching, and pre-charge filtering.
+* **Power Controllers:** Pulse generators, MOSFET switching circuits, and discrete analog amplifiers.
