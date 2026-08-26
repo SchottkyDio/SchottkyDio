@@ -13,5 +13,4 @@ Electrical & Electronics Engineering student building high-voltage power systems
 * **Environment:** Arch Linux, Bash
 
 ###  Projects
-* **3-Phase Full-Bridge Rectifier PCB:** High-voltage DC bus layout featuring 5mm high-current trace routing, multi-via layer stitching, and pre-charge filtering.
-* **Power Controllers:** Pulse generators, MOSFET switching circuits, and discrete analog amplifiers.
+* **3-Phase Full-Bridge Rectifier PCB:** https://github.com/SchottkyDio/3-Phase-Full-Bridge-Rectifier-PCB
